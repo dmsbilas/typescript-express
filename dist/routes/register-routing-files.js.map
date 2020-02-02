@@ -1,0 +1,1 @@
+{"version":3,"file":"register-routing-files.js","sourceRoot":"","sources":["../../src/routes/register-routing-files.ts"],"names":[],"mappings":";;;;AAAA,sDAA8B;AAC9B,oFAA2D;AAC3D,oFAA2D;AAE3D,MAAM,iBAAiB,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AAE3C,iBAAiB,CAAC,GAAG,CAAC,OAAO,EAAE,+BAAoB,CAAC,CAAC;AACrD,iBAAiB,CAAC,GAAG,CAAC,OAAO,EAAE,+BAAoB,CAAC,CAAA;AAEpD,iBAAS,iBAAiB,CAAE"}

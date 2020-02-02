@@ -1,12 +1,11 @@
 import express from "express";
 import path from "path";
+import registeredRouters  from "./routes/register-routing-files";
 const app = express();
 const port = 3000; // default port to listen
 
 // define a route handler for the default home page
-app.get( "/", ( req, res ) => {
-    res.send( "Hello world!" );
-} );
+app.use("/", registeredRouters);
 
 // start the Express server
 app.listen( port, () => {
